@@ -1488,3 +1488,11 @@ hr {
         font-size: 13px
     }
 }
+
+
+/************/
+
+.img-about {
+    height: 50px;
+    width: 50px;
+}
